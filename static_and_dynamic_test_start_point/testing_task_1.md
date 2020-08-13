@@ -2,7 +2,6 @@
 
 # Carry out static testing on the code below.
 # Comment on any errors that you see below.
-# There are 13 errors in total. 
 
 ```python
 
